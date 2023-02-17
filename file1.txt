@@ -1,8 +1,1 @@
-hello world!!!
-hello Aditya 
-bye
-<<<<<<< Updated upstream
-hi ra bangaram
-=======
-sry not bangaram
->>>>>>> Stashed changes
+Hello World!!!
