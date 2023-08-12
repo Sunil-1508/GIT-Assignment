@@ -1,0 +1,1 @@
+this file is to check is .gitignore file is working fine or not.
