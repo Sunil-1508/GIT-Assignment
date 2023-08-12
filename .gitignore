@@ -1,1 +1,5 @@
-secret.txt
+secret.txt  // to add file
+*.txt       // all files with .txt extension
+!main.txt   //all files except main.txt file
+temp/       // all files in temp directory
+
