@@ -1,3 +1,5 @@
 it is a sample file.
 
 i want this msg to pull into local repository.
+
+i want this msg to push to github repository.
